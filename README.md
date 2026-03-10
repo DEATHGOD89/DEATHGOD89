@@ -1,6 +1,13 @@
 # 💫 About Me:
-I'M STUDYING<br>I'M ALSO PARTICIPATED IN HACKATHON<br>I LOVE PLAY VIDEO GAMES <br>I LEARN THING OUT OF MY STUDY DIFFERENT LANGUAGES AND LITTLE CYBERSECURITY STUDY HOW BREACHES DONE <br>GAME PLAYS IN MY LIFE GAMES -VALORANT , CALL OF DUTY ALL PART, GTA ALL SERIOUS, ASSASION CRED, PUBG,FREEFIRE,GENSHIN IMPACT,FRAGPUNK,<br>LANGUAGES HTML , CSS , JAVA, JAVACRIPT,PHP,SQL,MYSQL,DSA,C,C++,REACT,TYPESCRIPT<br>PREPARING FOR GOVERMENT EXAM IN INDIA<br>20YEAR OLD
+I am a 20-year-old BCA graduate with an A+ grade (First Division) who is passionate about technology and continuous learning. Along with my studies, I actively participate in hackathons and enjoy building and exploring new ideas in software development.
 
+I have experience working with several programming languages and technologies, including HTML, CSS, JavaScript, Java, PHP, SQL, MySQL, C, C++, React, TypeScript, and Data Structures & Algorithms. I enjoy learning beyond my academic curriculum and often explore topics like cybersecurity and how security breaches happen, which helps me understand systems more deeply.
+
+Apart from technology, I am also a passionate gamer. I enjoy playing games such as Valorant, Call of Duty series, GTA series, Assassin’s Creed, PUBG, Free Fire, Genshin Impact, and FragPunk. Gaming has helped me develop skills like strategic thinking, teamwork, and quick decision-making.
+
+Currently, I am also preparing for government exams in India while continuing to improve my technical and problem-solving skills.
+
+I believe in learning continuously, building useful projects, and challenging myself through competitions and hackathons.
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/mRzeDyps) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@deathgod._hell) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Bhupender Singh) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@DeathGod890) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@DEATHGOD) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bhupendersingh123456789011@gmail.com) 
