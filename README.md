@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a 20-year-old BCA graduate with an A+ grade (First Division) who is passionate about technology and continuous learning. Along with my studies, I actively participate in hackathons and enjoy building and exploring new ideas in software development.
+I am a 21-year-old BCA graduate with an A+ grade (First Division) who is passionate about technology and continuous learning. Along with my studies, I actively participate in hackathons and enjoy building and exploring new ideas in software development.
 
 I have experience working with several programming languages and technologies, including HTML, CSS, JavaScript, Java, PHP, SQL, MySQL, C, C++, React, TypeScript, and Data Structures & Algorithms. I enjoy learning beyond my academic curriculum and often explore topics like cybersecurity and how security breaches happen, which helps me understand systems more deeply.
 
