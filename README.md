@@ -25,7 +25,7 @@ I believe in learning continuously, building useful projects, and challenging my
 ![](https://nirzak-streak-stats.vercel.app/?user=DEATHGOD89&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DEATHGOD89&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<img src="https://github-readme-stats-liard-eta-57.vercel.app/api?username=DEATHGOD89&show_icons=true&bg_color=0d1117&title_color=38bdf8&text_color=e5e7eb&icon_color=38bdf8&hide_border=true" alt="stats" width="100%" />
+<img src="https://github-readme-stats-liard-eta-57.vercel.app/api?username=DEATHGOD89&show_icons=true&bg_color=0d1117&title_color=38bdf8&text_color=e5e7eb&icon_color=38bdf8&hide_border=true" alt="stats" />
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=DEATHGOD89&theme=radical&no-frame=false&no-bg=true&margin-w=4)
