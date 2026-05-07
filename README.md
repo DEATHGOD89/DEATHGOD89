@@ -8,7 +8,8 @@ Apart from technology, I am also a passionate gamer. I enjoy playing games such 
 Currently, I am also preparing for government exams in India while continuing to improve my technical and problem-solving skills.
 
 I believe in learning continuously, building useful projects, and challenging myself through competitions and hackathons.
-Frontend Developer (React) Certificate - (https://www.hackerrank.com/certificates/98d43974faf0)
+
+Frontend Developer (React) Certificate - (https://www.hackerrank.com/certificates/98d43974faf0).
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/mRzeDyps) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@deathgod._hell) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhupender-deathgod-b18758279/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@DeathGod890) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@DEATHGOD) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bhupendersingh123456789011@gmail.com) 
 
