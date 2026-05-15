@@ -29,10 +29,7 @@ Frontend Developer (React) Certificate - (https://www.hackerrank.com/certificate
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DEATHGOD89&layout=compact&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800)
 
-<img 
-src="https://github-readme-stats.vercel.app/api?username=DEATHGOD89&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&v=2" 
-alt="GitHub Stats" 
-/>
+
 :::
 
 ## 🏆 GitHub Trophies
